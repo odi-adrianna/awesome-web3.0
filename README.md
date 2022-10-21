@@ -44,12 +44,14 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ▶️[What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/)
 - ▶️[Ethereum Tutorial For Beginners | What Is Ethereum? | Ethereum 2020 Explained | Simplilearn](https://www.youtube.com/watch?v=uneCaqD6Etk)
 - ▶️[How Ethereum work -a deep dive] (https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
+- 🔈[Ethereum Audible](https://player.fm/series/ethereum-audible)
 
 
 ## dApp
 - 📄[What is a Dapp? A Guide to Ethereum Dapps](https://freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
 - 📄[Introduction to dApps](https://ethereum.org/en/developers/docs/dapps/) 
 - 📄[Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/) 
+- 📄[A Complete Guide to Building Ethereum dApps: Front-end and Back-end] (https://betterprogramming.pub/a-complete-guide-to-build-ethereum-dapps-front-end-and-back-end-6fa44b66554b)
 - ▶️[What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8)
 - ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
 - ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
@@ -57,9 +59,10 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ▶️[Web 3 twitter dAPP with Solidity](https://metaschool.so/course/build-your-own-web3-twitter-dapp-with-solidity)
 
 
-##deFi
+## deFi
 -[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
 -[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
+-📄[What is Decentralized Finance (DeFi)?](https://aws.amazon.com/blockchain/what-is-defi/#:~:text=AWS%20re%3APost-,What%20is%20Decentralized%20Finance%20(DeFi)%3F,individual%20company%20or%20central%20authority.)
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
@@ -88,6 +91,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[8 Pros and Cons of Non-Fungible Tokens and How They Compare to Traditional Investments](https://www.annuity.org/2022/01/14/from-the-experts-8-pros-and-cons-of-nfts/)
 -  📄[Learn Everything about nfts](https://metaschool.so/course/learn-everything-about-nfts)
 -  ▶️[NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM)
+-  🔈 [Bankless](https://open.spotify.com/show/41TNnXSv5ExcQSzEGLlGhy)
 
 ## Interface with Blockchain
 
